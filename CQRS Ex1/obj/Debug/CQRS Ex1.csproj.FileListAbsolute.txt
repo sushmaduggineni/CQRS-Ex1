@@ -1,0 +1,6 @@
+c:\users\palmeto\documents\visual studio 2015\Projects\CQRS Ex1\CQRS Ex1\bin\Debug\CQRS Ex1.exe.config
+c:\users\palmeto\documents\visual studio 2015\Projects\CQRS Ex1\CQRS Ex1\bin\Debug\CQRS Ex1.exe
+c:\users\palmeto\documents\visual studio 2015\Projects\CQRS Ex1\CQRS Ex1\bin\Debug\CQRS Ex1.pdb
+c:\users\palmeto\documents\visual studio 2015\Projects\CQRS Ex1\CQRS Ex1\obj\Debug\CQRS Ex1.csprojResolveAssemblyReference.cache
+c:\users\palmeto\documents\visual studio 2015\Projects\CQRS Ex1\CQRS Ex1\obj\Debug\CQRS Ex1.exe
+c:\users\palmeto\documents\visual studio 2015\Projects\CQRS Ex1\CQRS Ex1\obj\Debug\CQRS Ex1.pdb
